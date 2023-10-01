@@ -7,6 +7,7 @@ import { NewComponent } from './new/new.component';
 import { ComonetntAnythingComponent } from './comonetnt-anything/comonetnt-anything.component';
 import { MostafaIbrahimComponent } from './components/mostafa-ibrahim/mostafa-ibrahim.component';
 import { MostafaIbrahimBranchComponent } from './components/mostafa-ibrahim-branch/mostafa-ibrahim-branch.component';
+import { SeventhTrialComponent } from './components/seventh-trial/seventh-trial.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { MostafaIbrahimBranchComponent } from './components/mostafa-ibrahim-bran
     NewComponent,
     ComonetntAnythingComponent,
     MostafaIbrahimComponent,
-    MostafaIbrahimBranchComponent
+    MostafaIbrahimBranchComponent,
+    SeventhTrialComponent
   ],
   imports: [
     BrowserModule,
